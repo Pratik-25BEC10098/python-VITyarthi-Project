@@ -39,7 +39,9 @@ menu = {
             "jelebi": {"cal": 150, "protein": 1, "carbs": 35, "fat": 4}, 
             "banana": {"cal": 105, "protein": 1, "carbs": 27, "fat": 0}, 
             "bread": {"cal": 75, "protein": 3, "carbs": 14, "fat": 1}, 
-            "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5}, "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
+            "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, 
+            "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5}, 
+            "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
         },
         "lunch": {
             "kale chole": {"cal": 210, "protein": 10,  "carbs": 26,  "fat": 7}, 
@@ -93,56 +95,128 @@ menu = {
     },
 
     "thursday": {
-        "breakfast": { "aloo paratha": {"cal": 290, "protein": 7, "carbs": 44, "fat": 10}, "banana": {"cal": 105, "protein": 1, "carbs": 27, "fat": 0}, "bread": {"cal": 75, "protein": 3, "carbs": 14, "fat": 1}, "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5}, "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
+        "breakfast": { 
+            "aloo paratha": {"cal": 290, "protein": 7, "carbs": 44, "fat": 10}, 
+            "banana": {"cal": 105, "protein": 1, "carbs": 27, "fat": 0}, 
+            "bread": {"cal": 75, "protein": 3, "carbs": 14, "fat": 1}, 
+            "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, 
+            "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5},
+            "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
         },
         "lunch": {
-            "mix pulse tadka": {"cal": 170, "protein": 10, "carbs": 20, "fat": 6}, "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, "rice": {"cal": 130, "protein": 3, "carbs": 28,  "fat": 0}, "roti": {"cal":  120, "protein": 3, "carbs": 18, "fat": 3}, "salad": {"cal": 35, "protein": 2, "carbs": 6, "fat": 0}
+            "mix pulse tadka": {"cal": 170, "protein": 10, "carbs": 20, "fat": 6}, 
+            "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, 
+            "rice": {"cal": 130, "protein": 3, "carbs": 28,  "fat": 0}, 
+            "roti": {"cal":  120, "protein": 3, "carbs": 18, "fat": 3}, 
+            "salad": {"cal": 35, "protein": 2, "carbs": 6, "fat": 0}
         },
         "snacks": {
-            "fried idly": {"cal": 260, "protein": 5, "carbs": 30, "fat": 12}, "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5}, "coffee": {"cal": 45 , "protein": 1, "carbs": 7, "fat": 1 }
+            "fried idly": {"cal": 260, "protein": 5, "carbs": 30, "fat": 12}, 
+            "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, 
+            "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5}, 
+            "coffee": {"cal": 45 , "protein": 1, "carbs": 7, "fat": 1 }
         },
         "dinner": {
-            "egg_gravy": {"cal": 210, "protein": 14, "carbs": 6, "fat": 14}, "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, "plain_rice": {"cal": 130, "protein": 3, "carbs": 28, "fat": 0}, "roti": {"cal": 120, "protein": 3, "carbs": 18, "fat": 3}
-        }},
+            "egg_gravy": {"cal": 210, "protein": 14, "carbs": 6, "fat": 14}, 
+            "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, 
+            "plain_rice": {"cal": 130, "protein": 3, "carbs": 28, "fat": 0}, 
+            "roti": {"cal": 120, "protein": 3, "carbs": 18, "fat": 3}
+        }
+    },
 
     "friday": {
         "breakfast": {
-            "uthappam":  {"cal": 180, "protein": 5, "carbs": 30, "fat": 4}, "sambhar": {"cal": 70, "protein": 3, "carbs": 10, "fat": 2}, "banana": {"cal": 105, "protein": 1, "carbs": 27, "fat": 0}, "bread":  {"cal": 75, "protein": 3, "carbs": 14, "fat": 1}, "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1},  "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5}, "coffee": {"cal": 45, "protein": 1 , "carbs": 7, "fat": 1}
+            "uthappam":  {"cal": 180, "protein": 5, "carbs": 30, "fat": 4}, 
+            "sambhar": {"cal": 70, "protein": 3, "carbs": 10, "fat": 2}, 
+            "banana": {"cal": 105, "protein": 1, "carbs": 27, "fat": 0}, 
+            "bread":  {"cal": 75, "protein": 3, "carbs": 14, "fat": 1}, 
+            "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1},  
+            "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5}, 
+            "coffee": {"cal": 45, "protein": 1 , "carbs": 7, "fat": 1}
         },
         "lunch": {
-            "kadi pakoda": {"cal": 220, "protein": 7, "carbs": 20, "fat": 12}, "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, "rice": {"cal": 130, "protein": 3, "carbs": 28, "fat": 0}, "roti": {"cal": 120, "protein": 3, "carbs": 18, "fat": 3}, "salad": {"cal": 35, "protein": 2, "carbs": 6, "fat":  0}  },
+            "kadi pakoda": {"cal": 220, "protein": 7, "carbs": 20, "fat": 12}, 
+            "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, 
+            "rice": {"cal": 130, "protein": 3, "carbs": 28, "fat": 0}, 
+            "roti": {"cal": 120, "protein": 3, "carbs": 18, "fat": 3}, 
+            "salad": {"cal": 35, "protein": 2, "carbs": 6, "fat":  0}  
+        },
         "snacks": {
-            "chowmin": {"cal": 310, "protein": 7, "carbs": 42, "fat": 12}, "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5}, "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
+            "chowmin": {"cal": 310, "protein": 7, "carbs": 42, "fat": 12}, 
+            "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, 
+            "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5}, 
+            "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
         },
         "dinner": {
-            "kadhai chicken": {"cal": 280, "protein": 20, "carbs": 8, "fat": 18}, "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, "plain_rice": {"cal": 130, "protein": 3, "carbs": 28, "fat": 0}, "roti": {"cal": 120, "protein": 3, "carbs": 18, "fat": 3} } },
+            "kadhai chicken": {"cal": 280, "protein": 20, "carbs": 8, "fat": 18}, 
+            "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, 
+            "plain_rice": {"cal": 130, "protein": 3, "carbs": 28, "fat": 0}, 
+            "roti": {"cal": 120, "protein": 3, "carbs": 18, "fat": 3} 
+        }
+    },
 
     "saturday": {
          "breakfast": {
-            "chole": {"cal": 220, "protein": 10, "carbs": 30, "fat": 6}, "bhature": {"cal": 290 , "protein": 6, "carbs": 32, "fat": 15}, "banana": {"cal": 105, "protein":1, "carbs": 27, "fat": 0}, "bread": {"cal": 75, "protein": 3, "carbs": 14, "fat": 1}, "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat":5 }, "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
+            "chole": {"cal": 220, "protein": 10, "carbs": 30, "fat": 6}, 
+            "bhature": {"cal": 290 , "protein": 6, "carbs": 32, "fat": 15}, 
+            "banana": {"cal": 105, "protein":1, "carbs": 27, "fat": 0}, 
+            "bread": {"cal": 75, "protein": 3, "carbs": 14, "fat": 1}, 
+            "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, 
+            "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat":5 }, 
+            "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
         },
         "lunch": {
-            "aloo jeera": {"cal": 170, "protein": 4, "carbs": 22, "fat": 7}, "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, "rice": {"cal": 130, "protein":3, "carbs": 28, "fat":0}, "roti": {"cal": 120, "protein": 3, "carbs": 18, "fat": 3}, "salad": {"cal": 35, "protein":2 , "carbs": 6, "fat": 0}
+            "aloo jeera": {"cal": 170, "protein": 4, "carbs": 22, "fat": 7}, 
+            "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, 
+            "rice": {"cal": 130, "protein":3, "carbs": 28, "fat":0}, 
+            "roti": {"cal": 120, "protein": 3, "carbs": 18, "fat": 3}, 
+            "salad": {"cal": 35, "protein":2 , "carbs": 6, "fat": 0}
         },
         "snacks": {
-            "dhokla": {"cal": 160, "protein": 6, "carbs": 22, "fat": 4}, "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5}, "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
+            "dhokla": {"cal": 160, "protein": 6, "carbs": 22, "fat": 4}, 
+            "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, 
+            "milk": {"cal": 103, "protein": 5, "carbs": 12, "fat": 5}, 
+            "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
         },
         "dinner": {
-            "gobi mutter": {"cal": 190, "protein": 5, "carbs": 20, "fat": 10}, "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, "plain_rice": {"cal":130, "protein": 3, "carbs": 28, "fat": 0}, "roti": {"cal": 120, "protein": 3, "carbs": 18, "fat": 3}
+            "gobi mutter": {"cal": 190, "protein": 5, "carbs": 20, "fat": 10}, 
+            "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, 
+            "plain_rice": {"cal":130, "protein": 3, "carbs": 28, "fat": 0}, 
+            "roti": {"cal": 120, "protein": 3, "carbs": 18, "fat": 3}
         }
- },
+    },
 
     "sunday": {
         "breakfast": {
-            "dosa": {"cal": 168, "protein": 4, "carbs": 30, "fat": 3}, "sambhar": {"cal": 70, "protein": 3, "carbs": 10, "fat": 2}, "banana": {"cal": 105, "protein": 1, "carbs": 27, "fat": 0}, "bread": {"cal": 75, "protein": 3, "carbs": 14, "fat": 1}, "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, "milk": {"cal": 103, "protein": 5, "carbs":12 ,  "fat": 5}, "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
+            "dosa": {"cal": 168, "protein": 4, "carbs": 30, "fat": 3}, 
+            "sambhar": {"cal": 70, "protein": 3, "carbs": 10, "fat": 2}, 
+            "banana": {"cal": 105, "protein": 1, "carbs": 27, "fat": 0}, 
+            "bread": {"cal": 75, "protein": 3, "carbs": 14, "fat": 1}, 
+            "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, 
+            "milk": {"cal": 103, "protein": 5, "carbs":12 ,  "fat": 5}, 
+            "coffee": {"cal": 45, "protein": 1, "carbs": 7, "fat": 1}
         },
         "lunch": {
-            "chicken biryani": {"cal":360, "protein":18, "carbs": 42, "fat": 14}, "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, "rice": {"cal": 130, "protein": 3, "carbs": 28, "fat": 0}, "roti": {"cal": 120, "protein": 3, "carbs":18, "fat": 3}, "salad": {"cal": 35, "protein": 2, "carbs": 6, "fat": 0}
+            "chicken biryani": {"cal":360, "protein":18, "carbs": 42, "fat": 14}, 
+            "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, 
+            "rice": {"cal": 130, "protein": 3, "carbs": 28, "fat": 0}, 
+            "roti": {"cal": 120, "protein": 3, "carbs":18, "fat": 3}, 
+            "salad": {"cal": 35, "protein": 2, "carbs": 6, "fat": 0}
         },
-        "snacks": {"pasta": {"cal":310, "protein": 9, "carbs": 46, "fat": 9}, "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, "milk": {"cal": 103, "protein":5, "carbs": 12, "fat": 5}, "coffee": {"cal": 45, "protein": 1, "carbs": 7 , "fat":1}
+        "snacks": {
+            "pasta": {"cal":310, "protein": 9, "carbs": 46, "fat": 9}, 
+            "tea": {"cal": 40, "protein": 1, "carbs": 7, "fat": 1}, 
+            "milk": {"cal": 103, "protein":5, "carbs": 12, "fat": 5}, 
+            "coffee": {"cal": 45, "protein": 1, "carbs": 7 , "fat":1}
         },
         "dinner": {
-            "dum aloo": {"cal": 200, "protein": 4, "carbs": 21, "fat": 12}, "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, "plain_rice": {"cal": 130, "protein": 3, "carbs": 28, "fat": 0}, "roti": {"cal":120, "protein": 3, "carbs": 18, "fat":3}}}}
+            "dum aloo": {"cal": 200, "protein": 4, "carbs": 21, "fat": 12}, 
+            "dal": {"cal": 130, "protein": 7, "carbs": 18, "fat": 3}, 
+            "plain_rice": {"cal": 130, "protein": 3, "carbs": 28, "fat": 0}, 
+            "roti": {"cal":120, "protein": 3, "carbs": 18, "fat":3}
+        }
+    }
+}
 
 # nutrition calculation
 
