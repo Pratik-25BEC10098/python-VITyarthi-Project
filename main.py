@@ -1,4 +1,3 @@
-# nutrition value data for menu items
 menu = {
     "monday": {
         "breakfast": {
@@ -218,33 +217,24 @@ menu = {
     }
 }
 
-
-
-#nutrition calculation
 print("------ Nutrition Calculator -----")
 
-
-#asking which day
 day=input("Enter day of week: ").lower()
 if day not in menu:
     print("Menu isn't' available for this day.")
     exit()
 
-
-#asking which meal
 meal=input("Enter meal (breakfast/lunch/snacks/dinner) : ").lower()
 if meal not in menu[day]:
     print("Meal isn't' available for this day.")
     exit()
 
-#show menu
 print(f"\nMenu for {meal} on {day.capitalize()}:")
 items=menu[day][meal]
 
 for item in items:
     print("-", item)
 
-#ask for quantity
 print("\nEnter quantity for each item (0 if not taken):")
 
 total={"cal": 0, "protein": 0, "carbs": 0, "fat": 0}
@@ -261,4 +251,4 @@ print(f"Total Calories : {total['cal']} kcal")
 print(f"Protein        : {total['protein']} g")
 print(f"Carbs          : {total['carbs']} g")
 print(f"Fat            : {total['fat']} g")
-print("have a good meal")
+print("Have a good meal!!!")
