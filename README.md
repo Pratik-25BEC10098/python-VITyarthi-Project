@@ -1,4 +1,4 @@
-                                                 Nutrition Calculator
+                                           Nutrition Calculator
 
 
 Overview of the Project:-  
@@ -34,4 +34,5 @@ Check displayed menu
 Enter quantity ( 0 if you did not take that item)  
 Program will display total nutrition  
 
-Screenshots of Output:-
+Screenshots of Output:-  
+[![screenshot](images/output_ss.png)](https://github.com/Pratik-25BEC10098/python-VITyarthi-Project/blob/8fdbbf4c60cbe55542979dbb363156c319a02e99/output_ss.png)
