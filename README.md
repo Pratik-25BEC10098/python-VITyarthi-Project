@@ -2,7 +2,7 @@
 
 
 Overview of the Project:-  
-The Menu Nutrition Calculator is a simple python script designed to hel users track the nutrition intake of their meals based on the predefined weekly menu. It stores a detailed, day-wise, and meal-wise menu with associated Calorie(cal), Protein, Carbohydrates, and Fat value of each item.  
+The Menu Nutrition Calculator is a simple python script designed to help users track the nutrition intake of their meals based on the predefined weekly menu. It stores a detailed, day-wise, and meal-wise menu with associated Calorie(cal), Protein, Carbohydrates, and Fat value of each item.  
 The script prompts the user for the day and meal they are interested in, display the available menu items, asks for the quantity consumed for each item, and then calculates and presents the total nutritional value of their chosen meal.
 
 
